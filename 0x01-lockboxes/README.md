@@ -12,7 +12,7 @@ Write a method that determines if all the boxes can be opened.
 * The first box boxes[0] is unlocked
 * Return True if all boxes can be opened, else return False
 
-```bash
+```python
 carrie@ubuntu:~/0x01-lockboxes$ cat main_0.py
 #!/usr/bin/python3
 
@@ -27,7 +27,7 @@ print(canUnlockAll(boxes))
 boxes = [[1, 4], [2], [0, 4, 1], [3], [], [4, 1], [5, 6]]
 print(canUnlockAll(boxes))
 ```
-```bash
+```python
 carrie@ubuntu:~/0x01-lockboxes$
 carrie@ubuntu:~/0x01-lockboxes$ ./main_0.py
 True
