@@ -12,6 +12,7 @@ The specific list of projects contained is as follows:
 * [0x06-starwars_api](./0x06-starwars_api)
 * [0x07-rotate_2d_matrix](./0x07-rotate_2d_matrix)
 * [0x08-making_change](./0x08-making_change)
+* [0x0A-primegame](./0x0A-primegame)
 
 ## Author :
 * [OtaraAlex](https://github.com/OtaraAlex)
